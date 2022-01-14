@@ -1,0 +1,12 @@
+Environment:
+-install Node.js
+-create a sample react app to make sure everything you need is downloaded
+-go into the project folder(you should see the ‘src’ folder)
+-open a command prompt in this directory
+-run “npm start”
+
+application:
+create: “C itemName”
+update: “U itemName newQuantity”
+delete: “D itemName”
+view/read: there is a list of items always displayed in the application
